@@ -35,5 +35,12 @@
             "expiry": "2025-06-18",
             "device_id": "d4c645e25ef82920"
         }
+         {
+            "username": "1",
+            "password": "1",
+            "subscription": "aimkillapk",
+            "expiry": "2025-09-18",
+            "device_id": ""
+        }
     ]
 }
